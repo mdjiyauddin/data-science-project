@@ -1,0 +1,101 @@
+emp_id,name,age,salary_inr,marital_status,experience_years,city,department,performance_rating
+E081,Nikita Bose,30.0,878547.0,Single,6.4,Bengaluru,Sales,5.0
+E085,Rohan Kapoor,,603584.0,Widowed,3.8,Kolkata,Finance,2.7
+E034,Aditya Das,23.0,842077.0,Married,0.0,,Sales,4.6
+E082,Zoya Jain,23.0,335743.0,Widowed,3.3,Agra,Sales,3.9
+E094,Md Kapoor,38.0,987781.0,Divorced,20.3,Jaipur,,2.5
+E018,Rohan Verma,32.0,506464.0,Divorced,10.7,Jaipur,Finance,4.6
+E037,Hina Kapoor,31.0,934546.0,Divorced,6.5,Jaipur,Support,2.0
+E083,Fatima Malhotra,33.0,888503.0,Widowed,11.0,Bengaluru,Finance,2.4
+E070,Aarav Joshi,31.0,519934.0,Divorced,9.1,Delhi,Sales,2.9
+E066,Aarav Chawla,24.0,682142.0,Married,0.0,Delhi,Product,2.3
+E093,Imran Bose,30.0,468097.0,Married,,Hyderabad,Product,3.6
+E040,Kavya Patel,41.0,842149.0,Single,16.6,Agra,HR,3.8
+E057,Rahul Kapoor,27.0,1026685.0,Married,5.1,,Product,2.2
+E053,Neha Das,33.0,1855819.0,Widowed,12.1,,Data Science,4.2
+E052,Rizwan Sharma,21.0,418652.0,Married,0.0,Bengaluru,,3.7
+E033,Rohan Verma,30.0,548957.0,Single,4.9,Pune,HR,3.3
+E032,Ritika Sharma,,1357136.0,Married,9.0,Kolkata,,2.7
+E045,Zoya Bose,30.0,1136060.0,Single,7.5,Delhi,HR,5.0
+E079,Rahul Agarwal,34.0,,Married,14.6,Kolkata,Marketing,3.2
+E011,Rahul Chopra,34.0,751410.0,Divorced,11.8,Pune,,2.9
+E003,Aisha Bose,,,Married,4.1,Agra,HR,2.8
+E074,Aditya Bose,,954880.0,Divorced,4.7,Agra,Engineering,2.6
+E098,Md Mehra,35.0,526928.0,Single,11.2,Pune,Design,3.6
+E063,Neha Saxena,40.0,821494.0,Divorced,15.5,Chennai,Marketing,4.0
+E020,Ananya Chawla,30.0,610297.0,Single,8.2,Chennai,,1.4
+E036,Sana Chopra,31.0,1092142.0,Widowed,5.8,Bengaluru,Product,3.4
+E095,Md Malhotra,35.0,755002.0,Divorced,17.4,Delhi,Finance,2.5
+E028,Rahul Bose,31.0,677666.0,Single,5.2,Lucknow,Engineering,3.2
+E047,Pooja Verma,28.0,,Married,6.9,Agra,Data Science,
+E039,Rohan Singh,25.0,,Divorced,,Agra,Design,2.6
+E068,Nikita Singh,27.0,739222.0,Single,7.9,Kolkata,Finance,1.9
+E100,Kabir Bose,21.0,1106161.0,Divorced,0.0,,Operations,4.3
+E055,Ananya Reddy,25.0,628954.0,Widowed,2.0,Chennai,Data Science,3.3
+E096,Simran Khan,24.0,520182.0,Widowed,,Kolkata,Data Science,2.7
+E089,Aarav Kumar,35.0,652018.0,Divorced,13.0,Mumbai,Design,2.3
+E041,Imran Verma,24.0,936125.0,Single,4.3,Delhi,Engineering,2.5
+E049,Kabir Joshi,31.0,326278.0,Widowed,9.3,,,3.5
+E060,Aditya Jain,21.0,755936.0,Married,0.0,Pune,HR,4.0
+E024,Sana Kumar,25.0,601701.0,Single,2.2,Mumbai,Data Science,
+E035,Sai Das,25.0,603381.0,Single,4.6,Chennai,,2.1
+E087,Ananya Malhotra,27.0,769614.0,Divorced,2.1,Delhi,Finance,1.9
+E054,Nikita Verma,35.0,895417.0,Single,12.4,Jaipur,Engineering,3.9
+E078,Kavya Gupta,,639342.0,Widowed,10.6,Mumbai,Engineering,4.2
+E016,Kavya Patel,27.0,644302.0,Single,2.8,Lucknow,Data Science,2.1
+E084,Ishaan Kumar,30.0,496851.0,Widowed,10.0,Agra,Operations,3.1
+E042,Sana Malhotra,35.0,823834.0,Married,14.6,Hyderabad,Marketing,4.9
+E046,Md Bose,33.0,442852.0,Divorced,8.9,Jaipur,Data Science,3.6
+E092,Arjun Mehra,34.0,579633.0,Single,12.4,Chennai,Engineering,3.2
+E027,Md Kumar,29.0,821215.0,Divorced,10.8,Kolkata,HR,3.4
+E099,Rahul Mehra,22.0,1249437.0,Married,2.4,Chennai,Finance,2.8
+E044,Fatima Saxena,29.0,802345.0,Widowed,7.6,Bengaluru,Operations,3.9
+E056,Imran Joshi,43.0,150000.0,Widowed,22.4,Mumbai,Marketing,
+E025,Sara Singh,31.0,,Widowed,9.0,,Design,3.0
+E005,Imran Joshi,23.0,794274.0,Widowed,0.0,Bengaluru,Operations,
+E059,Ritika Nair,30.0,504519.0,Single,12.3,Agra,Product,3.8
+E050,Ishaan Reddy,24.0,746117.0,Widowed,2.1,Bengaluru,HR,2.2
+E022,Nikita Saxena,25.0,549472.0,Widowed,4.8,Kolkata,Marketing,
+E088,Sakshi Nair,,635965.0,Widowed,3.6,Hyderabad,,4.5
+E004,Kabir Patel,31.0,150000.0,Married,5.6,Hyderabad,Marketing,2.7
+E075,Priya Gupta,35.0,792189.0,Divorced,14.6,Mumbai,Operations,
+E031,Hina Jain,34.0,427183.0,Married,14.8,,Support,1.9
+E067,Kabir Nair,28.0,325665.0,Divorced,9.3,Mumbai,Support,1.9
+E071,Ankit Kumar,30.0,898639.0,Married,11.2,Hyderabad,Sales,2.1
+E043,Ankit Das,28.0,473879.0,Single,4.2,Hyderabad,Sales,2.5
+E048,Fatima Malhotra,24.0,245545.0,Married,1.1,Bengaluru,Marketing,
+E090,Ankit Verma,29.0,613402.0,Married,7.6,Pune,Data Science,2.5
+E009,Sana Agarwal,29.0,,Divorced,8.6,Agra,Operations,
+E061,Md Patel,,665579.0,Widowed,4.0,Delhi,Design,4.0
+E001,Mohammad Kumar,32.0,658520.0,Married,11.3,Chennai,Marketing,4.6
+E091,Sakshi Malhotra,,1159821.0,Widowed,10.8,Pune,Product,
+E058,Vivaan Malhotra,25.0,903879.0,Married,1.5,Agra,,3.4
+E023,Sai Nair,26.0,853980.0,Widowed,4.2,Delhi,Engineering,4.1
+E062,Rohan Saxena,22.0,599649.0,Married,0.0,Pune,HR,2.6
+E064,Md Malhotra,42.0,1009739.0,Single,17.0,Chennai,Data Science,2.8
+E008,Arjun Singh,26.0,612491.0,Widowed,2.8,Delhi,Support,4.9
+E097,Imran Khan,25.0,,Single,3.7,Bengaluru,Data Science,4.9
+E014,Pooja Agarwal,25.0,883502.0,Single,5.1,Kolkata,Support,4.0
+E069,Ishaan Chawla,36.0,,Divorced,,Pune,Product,3.6
+E086,Rizwan Patel,25.0,773106.0,Single,3.5,Agra,Marketing,2.7
+E015,Kabir Reddy,24.0,,Married,2.7,,Sales,4.1
+E030,Sana Khan,29.0,349396.0,Single,9.3,Mumbai,Support,3.9
+E029,Fatima Reddy,30.0,1438972.0,Single,7.6,Hyderabad,HR,3.5
+E012,Imran Singh,21.0,484046.0,Married,0.0,Bengaluru,Finance,4.2
+E019,Aditya Kapoor,29.0,,Divorced,1.8,Bengaluru,Operations,3.9
+E021,Rohan Joshi,28.0,807133.0,Divorced,9.0,Pune,Data Science,2.7
+E051,Pooja Joshi,32.0,,Married,12.2,Agra,Product,4.1
+E026,Pooja Nair,21.0,573806.0,Divorced,0.0,Hyderabad,Engineering,2.5
+E007,Priya Reddy,26.0,733276.0,Single,1.7,Bengaluru,Support,3.5
+E072,Ankit Khan,42.0,150000.0,Single,19.7,Kolkata,Marketing,3.7
+E077,Nikita Gupta,29.0,735198.0,Married,9.6,Kolkata,Design,2.7
+E002,Rohan Gupta,28.0,629758.0,Married,9.2,Hyderabad,HR,3.9
+E017,Ankit Joshi,34.0,1106872.0,Single,11.9,Kolkata,Engineering,4.1
+E065,Sai Khan,37.0,487699.0,Widowed,15.9,Kolkata,HR,3.9
+E080,Md Patel,34.0,606919.0,Married,12.6,Kolkata,Product,3.1
+E006,Aisha Reddy,38.0,632267.0,Married,16.1,Mumbai,Data Science,1.9
+E076,Kavya Bose,25.0,,Married,4.5,,HR,3.7
+E010,Kavya Kumar,31.0,150000.0,Widowed,6.3,Delhi,Product,3.4
+E073,Md Reddy,31.0,513190.0,Widowed,8.6,,Engineering,2.8
+E013,Aditya Patel,32.0,171087.0,Married,10.6,Jaipur,Finance,
+E038,Pooja Nair,,789095.0,Widowed,11.5,Delhi,Marketing,3.5
