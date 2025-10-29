@@ -25,8 +25,7 @@ This repository contains my personal Data Science projects focused on:
 
 ## 🚀 About Me
 I'm a B.Tech CSE student passionate about Data Science and AI.  
-Connect with me on [LinkedIn](www.linkedin.com/in/
-).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/md-jiyauddin-346ab433b/).
 
 ---
 
