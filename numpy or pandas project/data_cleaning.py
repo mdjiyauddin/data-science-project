@@ -17,7 +17,7 @@ df['age'].fillna(df['age'].mean(), inplace=True)
 df['experience_years'].fillna(df['experience_years'].mean(), inplace=True)
 
 
-#  CATEGORICAL DATA CLEANING
+# CATEGORICAL DATA CLEANING
 
 #Fill missing 'department' with its mode (most common department)
 if df['department'].isnull().sum() > 0:
